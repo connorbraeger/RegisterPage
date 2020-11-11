@@ -8,14 +8,15 @@ nav{
 }
 nav ul li{
     display: inline-block;
-    color:blue;
+    background-color:rgb(17, 140, 182);
+    color:white;
     font-weight:bold;
     margin-right: 20px;
     
 }
 nav li{
-    border-style: solid;
-    border-color:black;
+    border-style: inset;
+    border-color:gray;
 }
 nav ul{
     text-align: right;
