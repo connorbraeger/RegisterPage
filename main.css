@@ -1,0 +1,45 @@
+nav{
+    
+    background-color:white;
+    position: fixed;
+    top:0px;
+    left:0px;
+    width:100vw;
+}
+nav ul li{
+    display: inline-block;
+    color:blue;
+    font-weight:bold;
+    margin-right: 20px;
+    
+}
+nav li{
+    border-style: solid;
+    border-color:black;
+}
+nav ul{
+    text-align: right;
+}
+body {
+    background-color:rgb(17, 140, 182);
+}
+
+fieldset{
+    background-color: white;
+    text-align:center;
+    position:relative;
+    top:200px;
+    margin-left:40vw ;
+    margin-right:40vw;
+}
+input{
+    margin:10px;
+}
+.circle{
+    border-radius:150px;
+}
+img{
+    margin:5px;
+    height: 25px;
+    width: 25px;
+}
